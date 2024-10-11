@@ -26,6 +26,7 @@ In short, the ideal house should be both affordable and close to the university.
 Data is collected from iproperty.com.my, with filters applied to meet specific requirements. In my case, I was looking for houses with at least 3 bedrooms.
 
 **Step 2:** Data Cleaning
+
 **Step 3:** Data Analysis
 We use Excel's Pivot Table to group households by apartment complexes, as multiple units within the same apartment can have different prices. This also helps in locating apartments more effectively than handling individual households.
 Filter out houses with rent prices above RM 3000.
