@@ -33,12 +33,15 @@ After filtering, I was left with around 200 apartments. I manually entered the c
 
 # Final Results
 We visualize all the filtered apartments on a map, showing their respective routes. In this project, I focused on the 70 closest apartments.
+
 ![image](https://github.com/user-attachments/assets/669a8b10-3d64-4e3b-912e-97a3387427b0)
 
 Additionally, individual routes can be visualized for specific apartments. Below, I have visualized the routes from the 3 closest apartments.
+
 ![image](https://github.com/user-attachments/assets/937f6072-9584-48bb-ae9d-4eb476dc4a54)
 
 You can also click on each map marker to view more details about the apartment.
+
 ![image](https://github.com/user-attachments/assets/565dbc27-1c21-40ed-a7b1-2548c0992692)
 
 -----
